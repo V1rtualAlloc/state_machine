@@ -35,6 +35,6 @@
 *.suo
 *.db
 *.sln
-*.vsxproj
+*.vcxproj
 *.filters
 *.user
