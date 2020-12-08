@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Microsoft VS
+*.suo
+*.db
+*.sln
+*.vsxproj
+*.filters
+*.user
